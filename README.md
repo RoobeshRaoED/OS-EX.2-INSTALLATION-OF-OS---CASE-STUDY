@@ -71,3 +71,4 @@ We now have Linux on your Windows using a VirtualBox!
 
 
 ## RESULT:
+Ubuntu in VMware Player on Windows has been installed successfully
