@@ -2,8 +2,6 @@
 
 ## EXP.NO: 2
 
-## DATE:
-
 ## AIM:
 
 To Assemble the Computer System
